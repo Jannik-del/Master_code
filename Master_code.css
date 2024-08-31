@@ -58,7 +58,6 @@
     border-radius: 5px;
     content: var(--ChangelogSize) var(--Theme-Variant)", " var(--Update-Text);
     text-align: center;
-    animation: UploaderBG 10s infinite linear;
     z-index: 9997;
     color: var(--Main-Colour);
     width: 50%;
